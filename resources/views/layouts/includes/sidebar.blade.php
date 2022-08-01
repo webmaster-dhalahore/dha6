@@ -99,12 +99,18 @@
             </li>
 
             <li class="nav-item">
-              <a href="{{ url('/Advance') }}" class="nav-link">
-                <i class="far fa-circle nav-icon"></i>
-                <p>Reservations</p>
+              <a href="{{ url('/DayClosing') }}" class="nav-link">
+                <i class="fas fa-user-lock nav-icon"></i>
+                <p>Day Closing</p>
               </a>
             </li>
 
+            <li class="nav-item">
+              <a href="{{ url('/Advance') }}" class="nav-link">
+              <i class="far fa-circle nav-icon"></i>
+                <p>Advance</p>
+              </a>
+            </li>
             
           </ul>
         </li>
