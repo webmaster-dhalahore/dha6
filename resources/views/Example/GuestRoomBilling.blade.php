@@ -29,6 +29,8 @@
 
     fieldset
     {
+        border: solid 1px #000000;
+        
         display: block;
         -webkit-margin-start: 2px;
         -webkit-margin-end: 2px;

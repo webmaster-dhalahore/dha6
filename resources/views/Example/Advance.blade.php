@@ -37,6 +37,7 @@
 
     fieldset
     {
+        
         width: 1050px;  
         -moz-border-radius:5px;  
         border-radius: 5px;  

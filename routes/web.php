@@ -19,3 +19,4 @@ Route::view('GuestRoomBilling', 'Example.GuestRoomBilling');
 Route::view('ShiftOpening', 'Example.ShiftOpening');
 Route::view('Advance', 'Example.Advance');
 Route::view('DayClosing', 'Example.DayClosing');
+Route::view('ShiftClosing', 'Example.ShiftClosing');
