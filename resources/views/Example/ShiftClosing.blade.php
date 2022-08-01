@@ -1,13 +1,10 @@
-<<<<<<< HEAD
 @extends('layouts.admin')
 
 @section('content')
 
-=======
 <!DOCTYPE html>
 <html lang="en">
 <head>
->>>>>>> 91ef3c1fab063ffe184f2a7df9ec078dbaa9d060
 <style>
     body 
     {
@@ -31,11 +28,8 @@
     h1
     {
         text-align: center;
-<<<<<<< HEAD
         background-color: rgb(211, 211, 211);
-=======
         background-color: rgb(85, 238, 150);
->>>>>>> 91ef3c1fab063ffe184f2a7df9ec078dbaa9d060
     }
 
     label
@@ -47,7 +41,6 @@
 
     fieldset
     {
-<<<<<<< HEAD
         width:1050px;  
 
         border-radius: 5px;  
@@ -55,7 +48,6 @@
 
         
         
-=======
 
         width:690px;  
         padding: 5px;
@@ -68,7 +60,6 @@
     .compress
     {
         width: 75%;
->>>>>>> 91ef3c1fab063ffe184f2a7df9ec078dbaa9d060
     }
 
     .left 
@@ -85,11 +76,8 @@
     {
         float: left;
     }
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 91ef3c1fab063ffe184f2a7df9ec078dbaa9d060
 </style>
 
 <meta charset="UTF-8">
@@ -98,20 +86,14 @@
 <link rel="stylesheet" href="styles.css" />
 <title>Shift Closing</title>
 
-<<<<<<< HEAD
 
-=======
 </head>
->>>>>>> 91ef3c1fab063ffe184f2a7df9ec078dbaa9d060
     <body>
         <center>
             <fieldset>
                 <h1>Shift Closing</h1>
-<<<<<<< HEAD
                 <fieldset>
-=======
                 <fieldset >
->>>>>>> 91ef3c1fab063ffe184f2a7df9ec078dbaa9d060
                     <div class="left">
                         <label>Working Date. <input type="date" required> </label>
                         <label>Shop Name<input type="text" required></label>
@@ -124,11 +106,9 @@
                     </div>
                     
                     <div class="right">
-<<<<<<< HEAD
                         <label>Shift Start Date <input type="date" required></label>
-=======
                     <label>Shift Start Date <input type="date" required></label>
->>>>>>> 91ef3c1fab063ffe184f2a7df9ec078dbaa9d060
+
                         <label>User Id <input type="text" required></label>
                         <label>Shift <input type="text" required></label>
                         <label>Remarks <input type="text" required></label>
@@ -148,8 +128,6 @@
             </fieldset>
         </center>
     </body>
-<<<<<<< HEAD
 @endsection
-=======
 </html>
->>>>>>> 91ef3c1fab063ffe184f2a7df9ec078dbaa9d060
+
